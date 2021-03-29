@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "iosfwd": "cpp",
+        "iterator": "cpp",
+        "ios": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "memory": "cpp",
+        "__locale": "cpp"
+    }
+}
